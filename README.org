@@ -1,0 +1,6 @@
+#+TITLE: Tráfico de paquetes con Scapy
+
+El objetivo del proyecto es desarrollar un programa modular en python que,
+haciendo uso de la biblioteca scapy, sea capaz de enviar y recibir paquetes de
+red, capturar paquetes y analizarlos, implementando así las funcionalidades de
+un sniffer de red.
